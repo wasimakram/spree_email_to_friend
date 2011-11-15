@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.description = 'Spree extension to send product recommendations to friends'
   s.required_ruby_version = '>= 1.8.7'
 
-  s.author        = 'Jorge Calás Lozano, Roman Smirnov, Trung Lê'
+  s.author        = 'Jorge Calas Lozano, Roman Smirnov, Trung Le'
   s.homepage      = 'https://github.com/spree/spree_email_to_friend'
 
   s.files         = `git ls-files`.split("\n")
